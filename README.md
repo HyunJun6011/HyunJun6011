@@ -5,14 +5,13 @@
 
 <div align="center">
 
-## 👋 안녕하세요, 양현준입니다!
+<h3>👋 안녕하세요, 양현준입니다</h3>
 
 ☕ 백엔드 개발자
 
 <br>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+Boot+Lover;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <br>
 
@@ -41,17 +40,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Pinned Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyunJun6011&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJun6011&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165"/>
+
+[![codemong-Backend-02](https://img.shields.io/badge/codemong--Backend--02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sku-codemong/codemong-Backend-02)
+[![ZeroWaste-BE-skthon](https://img.shields.io/badge/ZeroWaste--BE--skthon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/like-lion-hackathon-sku/ZeroWaste-BE-skthon)
+
 </div>
 
-<br>
+---
+
+### 🌱 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HyunJun6011&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <img src="https://ghchart.rshah.org/HyunJun6011" width="100%" />
 </div>
 
 ---
