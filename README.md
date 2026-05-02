@@ -51,14 +51,6 @@
 
 ---
 
-### 🌱 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/HyunJun6011" width="100%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%"/>
 </div>
